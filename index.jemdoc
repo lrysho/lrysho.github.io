@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Jiewen Guan 
+
+~~~
+M.Eng. Student, [http://www.xmu.edu.cn Xiamen University (XMU)] \n Program of Pattern Recognition and Intelligent Systems \n 
+\n
+E-mail: jwguan at stu.xmu.edu.cn
+~~~
+
+== Biography
+I am currently a second-year M.Eng. student in the Department of Automation at Xiamen University (XMU), under supervision of [https://dblp.org/pid/44/3514.html Dr. Bilian Chen]. I received my B.Eng. degree in Electronic Information Engineering from Zhejiang University of Technology (ZJUT) in 2019.
+
+== Awards
+- National Second Prize, NXP Smart Car Competition, 2018. \[[https://bj.bcebos.com/cdstm-hyetecforthesmartcar-bucket/d1224d427d264d388c157941b17fe969.pdf Technical Report (in Chinese)]\]
+
+== Research Interests
+My research interests include 
+- Optimization Methods
+- Matrix and Tensor Computations
+- Data Mining (e.g., recommendation systems, dense subgraph mining, feature selection, etc.)
+
+== Recent Publications 
+. Xiaochang Lin, Jiewen Guan, Bilian Chen, Yifeng Zeng. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9448330 /"Unsupervised Feature Selection via Orthogonal Basis Clustering and Local Structure Preserving."/] IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2021.
+
+== Submitted Manuscripts
+. Jiewen Guan, Xin Huang, Bilian Chen. /"Community-aware Social Recommendation: A Unified SCSVD Framework."/ IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Major Revision (revising).
+. Bilian Chen, Jiewen Guan, Zhening Li. /"Unsupervised Feature Selection via Graph Regularized Nonnegative CP Decomposition"./ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), Under Review.
+. Jiewen Guan, Bilian Chen, Xin Huang. /"Community Detection via Autoencoder-Like Non-Negative Tensor Decomposition"./ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Under Review.
+
+== Teaching Assistant
+. Time Series Analysis, XMU, Spring 2020
