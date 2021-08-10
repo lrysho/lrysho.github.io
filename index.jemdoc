@@ -1,31 +1,35 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Jiewen Guan 
+==Liu Ruiying
 
-~~~
-M.Eng. Student, [http://www.xmu.edu.cn Xiamen University (XMU)] \n Program of Pattern Recognition and Intelligent Systems \n 
+M.Eng. Student in Pattern Recognition and Intelligent Systems at [https://en.xmu.edu.cn Xiamen University].
 \n
-E-mail: jwguan at stu.xmu.edu.cn
-~~~
+Supervisor: [https://scholar.google.co.uk/citations?user=pa7wzD4AAAAJ&hl=en Prof. Yifeng Zeng].
+\n
+E-mail: [liuruiying@stu.xmu.edu.cn liuruiying@stu.xmu.edu.cn]
 
-== Biography
-I am currently a second-year M.Eng. student in the Department of Automation at Xiamen University (XMU), under supervision of [https://dblp.org/pid/44/3514.html Dr. Bilian Chen]. I received my B.Eng. degree in Electronic Information Engineering from Zhejiang University of Technology (ZJUT) in 2019.
+== Education
+Expected to receive M.Eng. degree from the Department of Automation at Xiamen University in 2022. 
+\n Received my B.Eng. degree in Automation at Xiamen University in 2019.
 
-== Awards
-- National Second Prize, NXP Smart Car Competition, 2018. \[[https://bj.bcebos.com/cdstm-hyetecforthesmartcar-bucket/d1224d427d264d388c157941b17fe969.pdf Technical Report (in Chinese)]\]
 
-== Research Interests
-My research interests include 
-- Optimization Methods
-- Matrix and Tensor Computations
-- Data Mining (e.g., recommendation systems, dense subgraph mining, feature selection, etc.)
+== Research 
+Currently I focus on combining visual and textual features for document layout analysis(page object detection/document segmentation) problem.
+\n My research interests include
+- Computer Vision: object detection, semantic segmentation, Text Detection, OCR
+- Machine Learning
+- Digital Image Processing
+- Multimodal Learning: Visual-Language Tasks, Multimodal Feature Fusion
 
-== Recent Publications 
-. Xiaochang Lin, Jiewen Guan, Bilian Chen, Yifeng Zeng. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9448330 /"Unsupervised Feature Selection via Orthogonal Basis Clustering and Local Structure Preserving."/] IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2021.
+== Project
+Cooperated with an educational technology company aiming to automatically mark exam papers. 
+- My main work was to detect desirable parts(e.g. student information) on paper images based on connected component analysis.
+- I am responsible for coordination and communication.
 
-== Submitted Manuscripts
-. Jiewen Guan, Xin Huang, Bilian Chen. /"Community-aware Social Recommendation: A Unified SCSVD Framework."/ IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Major Revision (revising).
-. Bilian Chen, Jiewen Guan, Zhening Li. /"Unsupervised Feature Selection via Graph Regularized Nonnegative CP Decomposition"./ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), Under Review.
-. Jiewen Guan, Bilian Chen, Xin Huang. /"Community Detection via Autoencoder-Like Non-Negative Tensor Decomposition"./ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Under Review.
+== Publications 
+. Ruiying Liu, Shenbao Yu, Fan Yang, Yinghui Pan, Yizeng Zeng. [https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/53771603/iccse.pdf /"A Connected Components Based Layout Analysis Approach for Educational Documents"/], 15th International Conference on Computer Science & Education (ICCSE), IEEE, 2021.
 
-== Teaching Assistant
-. Time Series Analysis, XMU, Spring 2020
+== Selected Awards
+. The second prize in the China University Robot Competition (ROBOCON-China) in 2018.
+
+== Teaching Asistant
+- System Identification, XMU, Spring 2020.
