@@ -1,11 +1,13 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Liu Ruiying
+# jemdoc: {index.html}, nofooter  
+= Liu Ruiying
 
 M.Eng. Student in Pattern Recognition and Intelligent Systems at [https://en.xmu.edu.cn Xiamen University].
 \n
 Supervisor: [https://scholar.google.co.uk/citations?user=pa7wzD4AAAAJ&hl=en Prof. Yifeng Zeng].
 \n
+\n
 E-mail: [liuruiying@stu.xmu.edu.cn liuruiying@stu.xmu.edu.cn]
+
 
 == Education
 Expected to receive M.Eng. degree from the Department of Automation at Xiamen University in 2022. 
@@ -13,12 +15,12 @@ Expected to receive M.Eng. degree from the Department of Automation at Xiamen Un
 
 
 == Research 
-Currently I focus on combining visual and textual features for document layout analysis(page object detection/document segmentation) problem.
-\n My research interests include
-- Computer Vision: object detection, semantic segmentation, Text Detection, OCR
+Currently my research focuses on combining visual and textual features for document layout analysis which aims to recognise components on document images like title, body, tables, etc. \n
+My research interests:
+- Deep Learning for Computer Vision
 - Machine Learning
 - Digital Image Processing
-- Multimodal Learning: Visual-Language Tasks, Multimodal Feature Fusion
+- Multimodal Learning
 
 == Project
 Cooperated with an educational technology company aiming to automatically mark exam papers. 
